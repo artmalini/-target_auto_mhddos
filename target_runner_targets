@@ -1,6 +1,6 @@
 ### Не забываем, удалять все параметры: -t --rpc -p --debug. UDP в список не добавляем
 
-https://www.auchan.ru https://auchan.ru http://mercury.vetrf.ru/ https://ivis-sso.vetrf.ru http://assol-express.vetrf.ru https://argus.vetrf.ru https://vetrf.ru/ --http-methods GET STRESS
-tcp://62.76.148.81:443 tcp://62.76.145.221:443 tcp://62.76.145.203:443 tcp://62.76.145.81:443
+tcp://62.109.4.10:21 tcp://62.109.4.10:53 tcp://62.109.4.10:110 tcp://62.109.4.10:587 tcp://62.109.4.10:21:22 tcp://62.109.4.10:111 tcp://62.109.4.10:993 tcp://62.109.4.10:8081 tcp://62.109.4.10:995 tcp://62.109.4.10:143 tcp://62.109.4.10:465 tcp://62.109.4.10:1500
+tcp://188.225.80.237:25 tcp://188.225.80.237:8091 tcp://188.225.80.237:10000 tcp://188.225.80.237:8001 tcp://62.76.145.74:7443 tcp://62.76.145.80:443 tcp://62.76.145.99:443 tcp://62.76.145.83:443 tcp://62.76.145.96:443 tcp://62.76.145.85:8002 tcp://62.76.145.85:80 tcp://62.76.145.85:8443
 
 # https://185.111.86.13 https://apisolution.payanyway.ru https://185.111.85.29:443 https://185.111.84.213:443 https://bitrix24.payanyway.ru https://185.111.85.38 --http-methods GET STRESS
